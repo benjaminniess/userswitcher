@@ -1,0 +1,16 @@
+{
+    "name": "benjaminniess/userswitcher",
+    "description": "Dev tool to switch between user accounts",
+    "autoload": {
+        "psr-4": {
+            "Benjaminniess\\UserSwitcher\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Benjamin Niess",
+            "email": "benjamin@web-id.fr"
+        }
+    ],
+    "require": {}
+}
